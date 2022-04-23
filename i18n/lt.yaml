@@ -1,0 +1,154 @@
+- id: toggle_navigation
+  translation: Perjungti navigaciją
+- id: table_of_contents
+  translation: Turinys
+- id: on_this_page
+  translation: Turinys
+- id: back_to_top
+  translation: Grįžti į puslapio viršų
+- id: home
+  translation: Pradžia
+- id: close
+  translation: uždaryti
+- id: languages
+  translation: kalbos
+- id: related
+  translation: Susiję
+- id: minute_read
+  translation: minučių skaitymo
+- id: previous
+  translation: Ankstesnis
+- id: next
+  translation: Kitas
+- id: figure
+  translation: 'Pav. %d:'
+- id: edit_page
+  translation: Redaguoti šį puslapį
+- id: theme_selector
+  translation: Display preferences
+- id: theme_light
+  translation: Šviesu
+- id: theme_dark
+  translation: Tamsu
+- id: theme_auto
+  translation: Automatinis
+- id: btn_preprint
+  translation: nerecenzuota publikacija
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: cituoti
+- id: btn_slides
+  translation: prezentacija
+- id: btn_video
+  translation: video
+- id: btn_code
+  translation: kodas
+- id: btn_dataset
+  translation: duomenų rinkinys
+- id: btn_project
+  translation: projektas
+- id: btn_poster
+  translation: plakatas
+- id: btn_source
+  translation: šaltinis
+- id: btn_copy
+  translation: kopijuoti
+- id: btn_download
+  translation: parsisiųsti
+- id: interests
+  translation: Interesai
+- id: education
+  translation: Išsilavinimas
+- id: user_profile_latest
+  translation: Naujausi
+- id: see_certificate
+  translation: Peržiūrėti sertifikatą
+- id: present
+  translation: Rodyti
+- id: more_pages
+  translation: Žiūrėti visus
+- id: more_posts
+  translation: Žiūrėti visus straipsnius
+- id: more_talks
+  translation: Žiūrėti visus pranešimus
+- id: more_publications
+  translation: Žiūrėti visas publikacijas
+- id: contact_name
+  translation: Vardas
+- id: contact_email
+  translation: Elektroninis paštas
+- id: contact_message
+  translation: Žinutė
+- id: contact_send
+  translation: Siųsti
+- id: book_appointment
+  translation: Rezervuoti susitikimą
+- id: abstract
+  translation: Santrauka
+- id: publication
+  translation: Publikacija
+- id: publication_type
+  translation: Tipas
+- id: date
+  translation: Data
+- id: last_updated
+  translation: Atnaujinta
+- id: event
+  translation: Renginys
+- id: location
+  translation: Vieta
+- id: pub_uncat
+  translation: Be kategorijos
+- id: pub_conf
+  translation: Pranešimas konferencijoe
+- id: pub_journal
+  translation: Mokslinis straipsnis
+- id: pub_preprint
+  translation: Nerecenzuota publikacija
+- id: pub_report
+  translation: Ataskaita
+- id: pub_book
+  translation: Knyga
+- id: pub_book_section
+  translation: Knygos skyrius
+- id: pub_thesis
+  translation: Tezė
+- id: pub_patent
+  translation: Patentas
+- id: open_project_site
+  translation: Eiti į projekto puslapį
+- id: posts
+  translation: Straipsniai
+- id: publications
+  translation: Publikacijos
+- id: talks
+  translation: Pranešimai
+- id: projects
+  translation: Projektai
+- id: slides
+  translation: Skaidrės
+- id: authors
+  translation: Autoriai
+- id: search
+  translation: Paieška
+- id: search_placeholder
+  translation: Ieškoti
+- id: search_results
+  translation: rasta
+- id: search_no_results
+  translation: Nieko nerasta
+- id: search_common_queries
+  translation: Common searches
+- id: page_not_found
+  translation: Puslapis nerastas
+- id: 404_recommendations
+  translation: Galbūt jūs ieškojote šių puslapių?
+- id: cookie_message
+  translation: Šis puslapis naudoja slapukus, kad užtikrintų geriausią naršymo patirtį.
+- id: cookie_dismiss
+  translation: Supratau!
+- id: cookie_learn
+  translation: Sužinoti daugiau
+- id: published_with
+  translation: Sukurta su {wowchemy} — nemokamu, {repo_link}atviro kodo{/repo_link} puslapių kūrimo įrankiu.
